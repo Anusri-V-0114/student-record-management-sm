@@ -1,4 +1,4 @@
-contract AttendanceUpdation {
+contract AttendanceManagement {
     struct Attendance {
         int courseID;
         int studentID;
